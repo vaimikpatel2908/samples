@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  adaptive_breakpoints: ^0.1.1
+  adaptive_breakpoints: ^0.1.4
   cupertino_icons: ^1.0.2
   equatable: ^2.0.3
   file_selector: ^0.8.2
